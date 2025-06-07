@@ -7,5 +7,5 @@ prymary_region = "sin"
 [envv]
   TELEGRAM_BOT_TOKEN = "7420276710:AAHJ6U2kpDd8ZUP2-yDQOxvc7s_3BwIR4I8"
 
-[http+service]
+[http_service]
   internal_port = 8080
