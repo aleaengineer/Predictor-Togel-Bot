@@ -1,10 +1,10 @@
-app = "Predictor Togel Bot"
+app = "predictor_togel_bot"
 prymary_region = "sin"
 
 [build]
   builder = "paketobuildpacks/builder:base"
   
-[envv]
+[env]
   TELEGRAM_BOT_TOKEN = "7420276710:AAHJ6U2kpDd8ZUP2-yDQOxvc7s_3BwIR4I8"
 
 [http_service]
